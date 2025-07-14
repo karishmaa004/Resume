@@ -1,2 +1,2 @@
-# Portfolio
-My Static HTML based portfolio
+# Resume
+My Static HTML based resume
